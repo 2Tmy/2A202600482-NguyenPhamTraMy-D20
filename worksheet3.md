@@ -12,7 +12,7 @@ Trở thành công cụ luyện debate AI giúp sinh viên cải thiện lập l
 
 ## KR1 — Leading Metric
 
-### ≥ 35% user rewrite lại argument sau khi nhận feedback từ Coach mode
+### ≥ 65% user rewrite lại argument sau khi nhận feedback từ Coach mode
 
 - Đo learning behavior thật
 - Validate rằng feedback đủ actionable
